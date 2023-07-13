@@ -4,6 +4,8 @@
 ### conda
 `conda env create -f environment.yml`
 ### venv
+`python -m venv env`
+`source env/bin/activate`
 `python -m pip install -r requirements.txt`
 
 ## run hello page or hello api
